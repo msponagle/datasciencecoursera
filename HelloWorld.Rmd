@@ -1,0 +1,12 @@
+---
+title: "HelloWorld"
+author: "Melissa Sponagle"
+date: "`r Sys.Date()`"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+##This is a Markdown file
